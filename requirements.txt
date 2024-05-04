@@ -2,6 +2,9 @@ numpy==1.26.3
 scikit-learn==1.3.2
 streamlit==1.30.0
 streamlit-option-menu==0.3.6
+streamlit-js-eval==0.1.7
 pickle5==0.0.11
 google-generativeai==0.3.2
 python-dotenv==1.0.1
+firebase-rest-api==1.11.0
+requests==2.31.0
